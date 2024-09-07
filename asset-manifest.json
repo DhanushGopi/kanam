@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kanam/static/css/main.3ee18341.css",
-    "main.js": "/kanam/static/js/main.5d69998f.js",
+    "main.js": "/kanam/static/js/main.00e4b13b.js",
     "static/js/453.63261c35.chunk.js": "/kanam/static/js/453.63261c35.chunk.js",
     "index.html": "/kanam/index.html",
     "main.3ee18341.css.map": "/kanam/static/css/main.3ee18341.css.map",
-    "main.5d69998f.js.map": "/kanam/static/js/main.5d69998f.js.map",
+    "main.00e4b13b.js.map": "/kanam/static/js/main.00e4b13b.js.map",
     "453.63261c35.chunk.js.map": "/kanam/static/js/453.63261c35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ee18341.css",
-    "static/js/main.5d69998f.js"
+    "static/js/main.00e4b13b.js"
   ]
 }
